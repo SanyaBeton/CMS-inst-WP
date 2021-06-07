@@ -1,1 +1,1 @@
-# CMS-inst-WP
+# Instalacja WP
